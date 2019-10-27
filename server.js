@@ -6,7 +6,7 @@ app.get('/',(req,res)=>{
 res.send('server is runing')
 });
 
-console.log('uhkafgkgfkhagfk;gfk;afg;kfg;kfg')
+console.log('working on git')
 
 app.listen(port,()=> console.log(`server i running on port ${port}`))
 
