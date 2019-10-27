@@ -1,0 +1,14 @@
+{
+  "name": "git_work",
+  "version": "1.0.0",
+  "description": "\"testing git & github\"",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "numan ijaz",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
